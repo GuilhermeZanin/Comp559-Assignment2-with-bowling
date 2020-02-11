@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Gui/UEPG/Study abroad/Masters ETS/Courses/COMP 559/assigment/COMP559W20A1Provided/comp559W19/jars/jogamp-fat.jar"/>
+	<classpathentry kind="lib" path="D:/Gui/UEPG/Study abroad/Masters ETS/Courses/COMP 559/assigment/COMP559W20A1Provided/comp559W19/jars/mintools.jar"/>
+	<classpathentry kind="lib" path="D:/Gui/UEPG/Study abroad/Masters ETS/Courses/COMP 559/assigment/COMP559W20A1Provided/comp559W19/jars/mtj.jar"/>
+	<classpathentry kind="lib" path="D:/Gui/UEPG/Study abroad/Masters ETS/Courses/COMP 559/assigment/COMP559W20A1Provided/comp559W19/jars/vecmath.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
